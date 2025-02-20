@@ -170,5 +170,5 @@ urllib3==2.3.0
     # via requests
 whisper==1.1.10
     # via youtube-video-gpt
-yt-dlp==2024.12.23
+yt-dlp==2025.1.26
     # via youtube-video-gpt

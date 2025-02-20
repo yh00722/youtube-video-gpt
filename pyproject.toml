@@ -4,14 +4,14 @@ version = "0.1.0"
 dependencies = [
     "openai>=1.59.6",
     "openai-whisper>=20240930",
-    "yt-dlp>=2024.12.23",
+    "yt-dlp>=2025.1.26",
     "pydub>=0.25.1",
     "whisper>=1.1.10",
     "python-dotenv>=1.0.1",
     "streamlit>=1.41.1",
 ]
 readme = "README.md"
-requires-python = ">= 3.8"
+requires-python = ">= 3.9"
 
 [build-system]
 requires = ["hatchling"]
